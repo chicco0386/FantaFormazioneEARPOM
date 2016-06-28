@@ -12,5 +12,7 @@
   	<module>../FantaFormazioneCommon</module>
   	<module>../FantaWebService</module>
   	<module>../FantaFormazioneWebHTML</module>
+  	<module>../FantaFormazioneWebMaven</module>
+  	<module>../FantaFormazioneEAR</module>
   </modules>
 </project>
